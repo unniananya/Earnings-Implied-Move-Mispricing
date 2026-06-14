@@ -1,0 +1,6 @@
+# Ignore all data files except processed folder
+data/*
+!data/processed/
+!data/processed/**
+# Ignore all data files except processed folder
+data/*
